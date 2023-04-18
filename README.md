@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iadam2000
 - 👀 I’m a computer science undergraduate
-- 🌱 I’m currently learning web development and Java
+- 🌱 I’m currently learning about distributed systems using Java RMI
 - 📫 You can find me on LinkedIn at https://www.linkedin.com/in/ibraheemadam/
 
 <!---
