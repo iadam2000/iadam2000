@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iadam2000
-- 👀 I’m a computer science undergraduate
-- 🌱 I’m currently learning about distributed systems using Java RMI
+- 👋 Hi, I’m Ibraheem
+- 👀 I’m a computer science graduate from Lancaster University (2023)
+- 🌱 I’m currently learning about software development with JP Morgan Chase
 - 📫 You can find me on LinkedIn at https://www.linkedin.com/in/ibraheemadam/
 
 <!---
