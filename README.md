@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibraheem
 - 👀 I’m a computer science graduate from Lancaster University (2023)
-- 🌱 I’m currently learning about software development with JP Morgan Chase
+- 🌱 I’m currently completing a bootcamp with Northcoders learning software development
 - 📫 You can find me on LinkedIn at https://www.linkedin.com/in/ibraheemadam/
 
 <!---
