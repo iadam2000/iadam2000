@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ibraheem
+- 👋 Hi, I’m Ibraheem - welcome to my GitHub!
 - 👀 I’m a computer science graduate from Lancaster University (2023)
-- 🌱 I’m currently completing a bootcamp with Northcoders learning software development
+- 🌱 I'm training in Software Development with Northcoders, getting hands-on experience with TDD using Jest and doing a lot of pair programming. I'm working with Node.js, React, SQL, and more. Loving every minute of it!
 - 📫 You can find me on LinkedIn at https://www.linkedin.com/in/ibraheemadam/
 
 <!---
