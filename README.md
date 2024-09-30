@@ -1,15 +1,6 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 <p align="center">
-  <b>Full-stack Developer | Tech Enthusiast | Teacher</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iadam2000">
-    <img src="https://img.shields.io/github/followers/iadam2000?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/iadam2000">
-    <img src="https://img.shields.io/twitter/follow/iadam2000?label=Follow%20on%20Twitter&style=social" alt="Twitter Followers" />
-  </a>
+  <b>Full-stack Developer | PwC Emerging Technology Experience</b>
 </p>
 
 ---
@@ -30,10 +21,10 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/iadam2000/news-frontend">
+  <a href="https://github.com/iadam2000/React-News-Hub">
     <img src="https://img.shields.io/static/v1?label=Project&message=News%20Website%20Frontend&color=blue&style=for-the-badge" />
   </a>
-  <a href="https://github.com/iadam2000/news-backend">
+  <a href="https://github.com/iadam2000/Backend-Project">
     <img src="https://img.shields.io/static/v1?label=Project&message=News%20API%20Backend&color=blue&style=for-the-badge" />
   </a>
 </p>
@@ -52,14 +43,11 @@
 <h2 align="center">🌍 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iadam2000/">
+  <a href="https://www.linkedin.com/in/ibraheemadam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/iadam2000">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/iadam2000">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
