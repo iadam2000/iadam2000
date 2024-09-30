@@ -1,6 +1,7 @@
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h2 align="center">💡 About Me</h2>
+
 <p align="center">
-  <b>Full-stack Developer | PwC Emerging Technology Experience</b>
+ Hi, I'm Ibraheem, a junior software developer with a passion for solving complex challenges through innovative software solutions. With experience in AI, AR, full-stack development, and teaching, I thrive in dynamic environments, always eager to embrace new technologies.
 </p>
 
 ---
@@ -53,8 +54,4 @@
 
 ---
 
-<h2 align="center">💡 About Me</h2>
 
-<p align="center">
-  I'm a full-stack developer with a passion for creating scalable applications, teaching technology, and continuous learning. I'm proficient in React, Node.js, and Express, and always exploring new technologies.
-</p>
