@@ -36,7 +36,7 @@
 
 <p align="center">
  <a href=https://github.com/iadam2000/Keyboard-Warrior/blob/main/">
-  <img src="https://img.shields.io/static/v1?label=Project&message=Keyboard%Warrior%Typing%Test%Project&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack%20Typing%20Test%20Project&color=blue&style=for-the-badge" />
   </a>
   <a href="https://github.com/iadam2000/React-News-Hub">
     <img src="https://img.shields.io/static/v1?label=Project&message=News%20Website%20Frontend&color=blue&style=for-the-badge" />
