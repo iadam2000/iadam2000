@@ -6,6 +6,28 @@
 
 ---
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+ <a href=https://github.com/iadam2000/Keyboard-Warrior/blob/main/>
+  <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack%20Typing%20Test%20Project&color=blue&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/iadam2000/React-News-Hub">
+    <img src="https://img.shields.io/static/v1?label=Project&message=News%20Website%20Frontend&color=blue&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/iadam2000/Backend-Project">
+    <img src="https://img.shields.io/static/v1?label=Project&message=News%20API%20Backend&color=blue&style=for-the-badge" />
+  </a>
+ <a href="https://github.com/iadam2000/Secure-Distributed-System"> 
+  <img src="https://img.shields.io/static/v1?label=Project&message=Secure%20Distributed%20System&color=blue&style=for-the-badge" />
+ </a>
+ <a href="https://github.com/iadam2000/Artificial-Intelligence">
+   <img src="https://img.shields.io/static/v1?label=Project&message=Machine%20Learning%20(AI)&color=blue&style=for-the-badge" />
+ </a>
+</p>
+
+---
+
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <p align="center">
@@ -28,28 +50,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Java%20Concurrency-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Asymmetric%20Encryption-007396?style=for-the-badge&logo=rsa&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
- <a href=https://github.com/iadam2000/Keyboard-Warrior/blob/main/>
-  <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack%20Typing%20Test%20Project&color=blue&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/iadam2000/React-News-Hub">
-    <img src="https://img.shields.io/static/v1?label=Project&message=News%20Website%20Frontend&color=blue&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/iadam2000/Backend-Project">
-    <img src="https://img.shields.io/static/v1?label=Project&message=News%20API%20Backend&color=blue&style=for-the-badge" />
-  </a>
- <a href="https://github.com/iadam2000/Secure-Distributed-System"> 
-  <img src="https://img.shields.io/static/v1?label=Project&message=Secure%20Distributed%20System&color=blue&style=for-the-badge" />
- </a>
- <a href="https://github.com/iadam2000/Artificial-Intelligence">
-   <img src="https://img.shields.io/static/v1?label=Project&message=Machine%20Learning%20(AI)&color=blue&style=for-the-badge" />
- </a>
 </p>
 
 ---
