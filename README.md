@@ -47,6 +47,9 @@
  <a href="https://github.com/iadam2000/Secure-Distributed-System"> 
   <img src="https://img.shields.io/static/v1?label=Project&message=Secure%20Distributed%20System&color=blue&style=for-the-badge" />
  </a>
+ <a href="https://github.com/iadam2000/Artificial-Intelligence">
+   <img src="https://img.shields.io/static/v1?label=Project&message=Machine%20Learning%20(AI)&color=blue&style=for-the-badge" />
+ </a>
 </p>
 
 ---
