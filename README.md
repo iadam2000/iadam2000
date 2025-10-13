@@ -12,12 +12,6 @@
  <a href=https://github.com/iadam2000/Keyboard-Warrior/blob/main/>
   <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack%20Typing%20Test%20Project&color=blue&style=for-the-badge" />
   </a>
-  <a href="https://github.com/iadam2000/React-News-Hub">
-    <img src="https://img.shields.io/static/v1?label=Project&message=News%20Website%20Frontend&color=blue&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/iadam2000/Backend-Project">
-    <img src="https://img.shields.io/static/v1?label=Project&message=News%20API%20Backend&color=blue&style=for-the-badge" />
-  </a>
  <a href="https://github.com/iadam2000/Secure-Distributed-System"> 
   <img src="https://img.shields.io/static/v1?label=Project&message=Secure%20Distributed%20System&color=blue&style=for-the-badge" />
  </a>
